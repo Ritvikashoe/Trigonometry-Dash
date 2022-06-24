@@ -1,5 +1,4 @@
 import pygame
-import random
 
 draw_rect = False
 map_scout = False
